@@ -46,15 +46,15 @@ I then followed the below steps:
 
 To assist in making the solid recommendations to Microsoft, first I grouped together the most profitable movie studios and kept to the top 5. It was found that BV studio was the most profitable by total gross. After some quick googling, I noticed that BV now came under Walt Disney Studios so the title was updated in the graph to reflect this update.
 
-![Studio Profit]("images/Studio Profit.png")
+![]("./images/Studio_Profit.png")
 
 After noting that Action was the top movie genre in 7 out 9 years previously, I analysed further to include both primary genre and sub-genre. It was clear that these movie genres outperform all other genres by a considerable amount, however they require significant investment.
 
-![Rev by Genre]("images/Rev by Genre.png")
+![]("./images/Rev_Genre.png")
 
 Finally I focused on the Action movie release dates to identify any patterns or favourable release months. It was determined that May and June are the best time to release these movies.
 
-![Rev by Release Month]("images/Rev by Release Month.png")
+![]("./images/Rev_Month.png")
 
 ## Conclusions
 
@@ -84,13 +84,11 @@ Next Steps:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Microsoft Movie Studio Project.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Microsoft Movie Studio Project.ipynb) or our [presentation](./Microsoft Movie Studio Project Presentation.pdf).
 
 For any additional questions, please contact Nat Berryman - nathaniel.berryman@gmail.com
 
 ## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md
