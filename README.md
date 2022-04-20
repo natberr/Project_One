@@ -1,6 +1,6 @@
 # Microsoft Movie Studio Project
 
-**Author**: Nat Berryman
+**Author**: [Nat Berryman](https://github.com/natberr)
 
 ## Overview
 
@@ -86,7 +86,7 @@ Next Steps:
 
 Please review our full analysis in [our Jupyter Notebook](http://localhost:8888/notebooks/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project.ipynb) or our [presentation](http://localhost:8888/files/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project%20Presentation.pdf).
 
-For any additional questions, please contact Nat Berryman - nathaniel.berryman@gmail.com
+For any additional questions, please contact **Nat Berryman - nathaniel.berryman@gmail.com
 
 ## Repository Structure
 
