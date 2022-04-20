@@ -27,13 +27,13 @@ I started by merging the title basics, title ratings, movie budgets and movie gr
 Once merged I dropped irrelevant columns and removed duplidate movie titles.
 Then I split out the genres into primary genre columns and sub-genre columns and converted the dates into columns for easier evaluation.  
 
-Data Cleaning
+**Data Cleaning**
 - Release date data was split to month/year and converted it to datetime.
 - Genre data was also split to primary genre and sub genre.
 - Production Budget, Domestic Gross and Worldwide Gross data was converted to integers.
 - Profit/Loss and Profit/Loss % columns were added by subtracting the production budget from worldwide gross.
 
-I then followed the below steps:
+**I then followed the below steps:**
 
 - Irrelevant columns were then deleted.
 - Investigated if there were any duplicate under movie column.
@@ -72,12 +72,12 @@ Further analysis into established movie studios could be undertaken such as fran
 
 While the ratings do not correlate with gross revenue, it may be useful to conduct further analysis on this metric in profit/loss percentage values.
 
-Three recommendations resulting from the analysis are:
+**Three recommendations resulting from the analysis are:**
 - Explore partnership opportunities with established movie studios, much like Disney and Sony with Spider-Man movies.
 - Investigate making Action/Adventure movies.
 - Releasing these movies across May/June.
 
-Next Steps:
+**Next Steps:**
 - Analyse streaming services performance along with box office data e.g. Netflix, Amazon Prime.
 - Explore smaller budget and/or foreign language films markets as they still may yield attractive profits.
 - There is a possiblity the high grossing movie studios are not interested in partnership opportunities so it may be worth approaching smaller companies.
