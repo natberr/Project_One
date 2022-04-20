@@ -84,7 +84,7 @@ Next Steps:
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](http://localhost:8888/notebooks/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project.ipynb) or our [presentation](http://localhost:8888/files/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project%20Presentation.pdf).
+Please review the full analysis in [my Jupyter Notebook](http://localhost:8888/notebooks/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project.ipynb) or my [presentation pack](http://localhost:8888/files/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project%20Presentation.pdf).
 
 For any additional questions, please contact **Nat Berryman - nathaniel.berryman@gmail.com**
 
