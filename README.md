@@ -46,15 +46,15 @@ I then followed the below steps:
 
 To assist in making the solid recommendations to Microsoft, first I grouped together the most profitable movie studios and kept to the top 5. It was found that BV studio was the most profitable by total gross. After some quick googling, I noticed that BV now came under Walt Disney Studios so the title was updated in the graph to reflect this update.
 
-![]("./images/Studio_Profit.png")
+![](./images/Studio_Profit.png)
 
 After noting that Action was the top movie genre in 7 out 9 years previously, I analysed further to include both primary genre and sub-genre. It was clear that these movie genres outperform all other genres by a considerable amount, however they require significant investment.
 
-![]("./images/Rev_Genre.png")
+![](./images/Rev_Genre.png)
 
 Finally I focused on the Action movie release dates to identify any patterns or favourable release months. It was determined that May and June are the best time to release these movies.
 
-![]("./images/Rev_Month.png")
+![](./images/Rev_Month.png)
 
 ## Conclusions
 
