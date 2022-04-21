@@ -64,7 +64,7 @@ Following the evalutation the below was confirmed;
 2. Action / Adventure movies are the highest grossing.
 3. The best months to release these movies is across May and June.
 4. Ratings and movie length do not correlate with gross revenue.
-5. No additional metrics stood out, however further analysis could be done on the above points or more data sets.
+5. Further analysis could be completed on additional data sets not incuded in project such as streaming service performance.
 
 It is indicated that Microsoft should explore making action/adventure movies as a first step into their new venture. However it must be noted these movie genres require significant investment.
 
