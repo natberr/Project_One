@@ -84,7 +84,7 @@ While the ratings do not correlate with gross revenue, it may be useful to condu
 
 ## For More Information
 
-Please review the full analysis in [my Jupyter Notebook](http://localhost:8888/notebooks/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project.ipynb) or my [presentation pack](./dsc-project-template/Microsoft Movie Studio Project Presentation.pdf).
+Please review the full analysis in [my Jupyter Notebook](http://localhost:8888/notebooks/Desktop/AcademyXI/Project1/dsc-project-template/Microsoft%20Movie%20Studio%20Project.ipynb) or my ![presentation pack](./dsc-project-template/Microsoft Movie Studio Project Presentation.pdf).
 
 For any additional questions, please contact **Nat Berryman - nathaniel.berryman@gmail.com**
 
