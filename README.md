@@ -13,7 +13,7 @@ The business problem that I set out to solve was, how can Microsoft's venture in
 In order to solve this problem, I intended to find answer for the following questions:
 1. What are the highest grossing production studios?
 2. What is the highest grossing movie genres?
-3. What is the most successful release date patterns?
+3. Are there any release date patterns?
 4. Do rating or movie length impact revenue?
 5. What other metrics can be evaluated to define what makes a good movie?
 
